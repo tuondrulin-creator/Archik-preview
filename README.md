@@ -25,3 +25,4 @@ Nikam se nic neodesílá, jediné co používáme je ukládání pokroku v prohl
 Zdrojový kód a licence zatím neveřejné, zveřejnění se plánuje
 ## Hlášení chyb
 Přes Github issues v tomhle repu, vyžaduje Github účet a jsou veřejné, takže ostatní mohou potvrdit chybu a diskutovat o ní.
+Také do issue přidejte i číslo úlohy, kroky k reprodukci a případně navrhované řešení.
