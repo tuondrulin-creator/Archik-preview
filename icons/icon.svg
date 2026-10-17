@@ -1,4 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" fill="#fff"/>
-  <text x="256" y="256" text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="260" fill="#000">A</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <!-- Archík: a sheet of paper (arch) with a pencil writing its last line. Colours: --color-accent,
+       --color-activity-1/2 and paper white. Square corners, flat fills (docs/DESIGN.md). -->
+  <rect width="64" height="64" fill="#1a3fa0"/>
+  <path d="M8 8 H32 L40 16 V52 H8 Z" fill="#fff"/>
+  <path d="M32 8 V16 H40 Z" fill="#b9c8ee"/>
+  <rect x="13" y="22" width="20" height="3" fill="#1a3fa0"/>
+  <rect x="13" y="30" width="20" height="3" fill="#6f8ad0"/>
+  <rect x="13" y="38" width="9" height="3" fill="#6f8ad0"/>
+  <g transform="translate(22 40) rotate(-45)">
+    <rect x="10" y="-5" width="36" height="10" fill="#6f8ad0"/>
+    <rect x="40" y="-5" width="6" height="10" fill="#fff"/>
+    <path d="M0 0 L10 -5 V5 Z" fill="#b9c8ee"/>
+    <path d="M0 0 L4 -2 V2 Z" fill="#1a3fa0"/>
+  </g>
 </svg>
