@@ -1,3 +1,5 @@
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/545d66bd-73e2-49c8-92f4-ef3d86c389f6" />
+
 # Archík – testovací verze
 Toto je místo pro testování aplikace Archík.
 ## Co to je:
