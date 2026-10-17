@@ -4,8 +4,14 @@ Toto je místo pro testování aplikace Archík.
 Příprava na jednotnou přijímací zkoušku pro 9. třídy, čeština a matematika.
 Trénuje rychlost a přesnost, protože přesně to zkouška měří.
 ## Spuštění
-Odkaz: https://tuondrulin-creator.github.io/Archik-preview/ 
+Odkaz na web: https://tuondrulin-creator.github.io/Archik-preview/
+
 Aplikace se dá i nainstalovat a používat offline.
+### Aktualizace
+Aktualizace se automaticky stahují na pozadí, ale pro aktualizování aplikace je potřeba
+zavřít všechny místa, kde je aplikace otevřená a následně aplikaci otevřít.
+
+Refresh stránky stránku záměrně neaktualizuje.
 ## Stav
 Testovací verze, cokoliv se zde může změnit, uložený pokrok se může po větší změně ztratit.
 Pouze pro testování aplikace a jako ukázka.
