@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
-  <!-- Archík: a sheet of paper (arch) with a pencil writing its last line. Colours: --color-accent,
-       --color-activity-1/2 and paper white. Square corners, flat fills (docs/DESIGN.md). -->
+  <!-- Archík: a sheet of paper (arch) with a pencil writing its last line. Colours: accent,
+       activity shades 1 and 2 and paper white (a double hyphen is not allowed inside an XML comment). Square corners, flat fills (docs/DESIGN.md). -->
   <rect width="64" height="64" fill="#1a3fa0"/>
   <path d="M8 8 H32 L40 16 V52 H8 Z" fill="#fff"/>
   <path d="M32 8 V16 H40 Z" fill="#b9c8ee"/>
