@@ -17,7 +17,7 @@ Hodnocení u zkoušky: {{scoring_rules}}
 
 {{verdict}} S tímhle hodnocením souhlasím na 100 %, takže ho nezpochybňuj.
 
-Základ je vždy 100 %. Zvýšení o p % znamená násobit číslem 1 + p/100, snížení o p % číslem 1 - p/100. Když znám hodnotu po změně a hledám původní, dělím tím samým číslem. Při dvou změnách po sobě se násobí oba činitele, procenta se nesčítají. Na otázku „kolik procent“ je výsledek podíl krát 100.
+Základ je vždy 100 %. Zvýšení o p % znamená násobit číslem 1 + p/100, snížení o p % číslem 1 − p/100. Když znám hodnotu po změně a hledám původní, dělím tím samým číslem. Při dvou změnách po sobě se násobí oba činitele, procenta se nesčítají. Na otázku „kolik procent“ je výsledek podíl krát 100.
 
 Správný výsledek je ověřený. Neměň ho a nepřepočítávej ho jinak. Nepřidávej žádné požadavky, které nejsou v zadání ani v hodnocení u zkoušky (například určitý tvar zápisu). Piš česky, tykej mi, jednoduše a nejvýš na 150 slov. Nechval mě (žádné „výborně“ ani „gratuluji“), nic mi nevyčítej a nepoužívej emoji. Nezjišťuj, jestli jsem kluk, nebo holka.
 

@@ -28,8 +28,9 @@ dělením čitatele i jmenovatele jejich největším společným dělitelem. Zl
 a tisíciny a zkrátím. Nejdřív počítám závorky, pak násobení a dělení a nakonec sčítání a odčítání.
 Větší ze dvou zlomků poznám tak, že je převedu na společného jmenovatele. Zlomek p/q z čísla
 spočítám jako číslo vydělené q a vynásobené p. Zadání říká, v jakém tvaru má být výsledek
-(zlomek v základním tvaru, smíšené číslo, desetinné číslo). Výsledek se správnou hodnotou, ale
-v jiném tvaru, se nepočítá jako správný.
+(zlomek v základním tvaru, smíšené číslo, desetinné číslo). Pokud zadání určuje tvar výsledku,
+výsledek se správnou hodnotou v jiném tvaru se nepočítá jako správný. U slovních úloh s
+celočíselným výsledkem se přijímá jakýkoli zápis téže hodnoty.
 
 Prosím:
 1. Vysvětli česky a jednoduše, jak takovou úlohu obecně řešit, bez kalkulačky.

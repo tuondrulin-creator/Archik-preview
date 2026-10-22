@@ -21,7 +21,7 @@ Takové úlohy se řeší stále stejně. Při dělení celku v poměru a : b se
 kolik je jeden díl, a vynásobím ho. Poměr se upravuje na základní tvar dělením všech členů
 jejich největším společným dělitelem; členy v různých jednotkách nejdřív převedu na stejnou
 jednotku. Zvětšit v poměru 5 : 3 znamená násobit číslem 5/3. V měřítku 1 : n odpovídá 1 cm na
-mapě n cm ve skutečnosti, takže násobím n a pak převádím jednotky (100 cm = 1 m, 100 000 cm =
+mapě n cm ve skutečnosti, takže násobím n a pak převádím jednotky; ze skutečnosti na mapu naopak převedu na cm a dělím n (100 cm = 1 m, 100 000 cm =
 1 km). U přímé úměrnosti (dvakrát víc, dvakrát víc) hledám nejdřív hodnotu pro jednu jednotku,
 u nepřímé úměrnosti (dvakrát víc, poloviční doba) mi zůstává stejný součin. Část celku je
 zlomek: p/q z čísla spočítám jako číslo vydělené q a vynásobené p.
