@@ -44,4 +44,5 @@ Také do issue přidejte i číslo úlohy, kroky k reprodukci a případně navr
 Odkaz na preview repositář odkud pochází toto README: https://github.com/tuondrulin-creator/Archik-preview/ 
 ## Verze
 v 0.1 začátek projektu-30.10.2026
+
 v 0.1.1 30.10.2026-teď
