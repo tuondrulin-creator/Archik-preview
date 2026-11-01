@@ -9,7 +9,7 @@ Tuned with the harness in \`scripts/prompt-eval/\`; results in \`docs/PROMPT_EVA
 
 ---
 
-Jsem žák 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě najít podmět a přísudek.
+Chodím do 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě najít podmět a přísudek.
 
 Zadání: {{question}}
 Moje odpověď: {{user_answer}}
@@ -24,8 +24,8 @@ Správná odpověď je ověřená. Neměň ji a nerozebírej větu jinak. Použ�
 
 Odpověz přesně v těchto krocích:
 1. Porovnej moji odpověď se správnou odpovědí slovo po slovu, podmět zvlášť a přísudek zvlášť. Spojky a čárky mezi částmi podmětu při porovnání ignoruj. Pokud mají stejná slova, i když jsou v jiném pořadí, napiš jen, že je odpověď v pořádku, a skonči.
-2. Jinak v jedné nebo dvou větách napiš, v čem se moje odpověď liší od správné. Možnosti jsou jen tyto: mám napsaná slova navíc (uveď která), nějaká slova mi chybí (uveď která), mám prohozený podmět s přísudkem, nebo jsem jako podmět či přísudek vybral jiné slovo. Slovo, které mám správně, nikdy nepopisuj jako chybné. Nepoužívej žádná jiná jména větných členů než podmět a přísudek.
+2. Jinak v jedné nebo dvou větách napiš, v čem se moje odpověď liší od správné. Možnosti jsou jen tyto: mám napsaná slova navíc (uveď která), nějaká slova mi chybí (uveď která), mám prohozený podmět s přísudkem, nebo mám jako podmět či přísudek jiné slovo. Slovo, které mám správně, nikdy nepopisuj jako chybné. Nepoužívej žádná jiná jména větných členů než podmět a přísudek.
 3. Napiš dvě až tři věty o tom, jak se v této větě správná odpověď najde (otázkou kdo nebo co a podle shody s přísudkem). Ptej se jen tak, aby otázka dávala smysl.
 
-Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, abych to mohl nahlásit.
+Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, aby šlo chybu nahlásit.
 `;export{e as default};

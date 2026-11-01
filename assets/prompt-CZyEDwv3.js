@@ -7,7 +7,7 @@ state it. Placeholders: \`{{question}}\`, \`{{user_answer}}\`, \`{{verdict}}\`, 
 
 ---
 
-Jsem žák 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Dostal jsem
+Chodím do 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Mám
 úlohu na počítání zpaměti: mám spočítat příklad s čísly (někdy zápornými nebo desetinnými) a
 operacemi sčítání, odčítání, násobení a dělení. Nemám kalkulačku, na zkoušce ji mít nebudu.
 
@@ -26,9 +26,9 @@ rozmyslím, kolik desetinných míst bude mít výsledek. Dělení vychází př
 Prosím:
 1. Vysvětli česky a jednoduše, jak takový příklad obecně řešit zpaměti, bez kalkulačky.
 2. Zeptej se mě, v jakém pořadí se má počítat a co vyjde jako první, a veď mě po krocích.
-   Konečný výsledek mi neprozrazuj; pomoz mi k němu dojít sám.
-3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde jsem pravděpodobně udělal chybu
-   (například jsem počítal v jiném pořadí, než určuje přednost operací, spletl si znaménko, špatně
-   posunul desetinnou čárku nebo se spletl v násobilce).
+   Konečný výsledek mi neprozrazuj; pomoz mi dojít k němu vlastními silami.
+3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde pravděpodobně vznikla chyba
+   (například počítání v jiném pořadí, než určuje přednost operací, záměna znaménka, špatný
+   posun desetinné čárky nebo chyba v násobilce).
 4. Pokud si myslíš, že zadání je nejednoznačné nebo chybné, řekni to otevřeně.
 `;export{e as default};

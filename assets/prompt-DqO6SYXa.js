@@ -7,7 +7,7 @@ state it. Placeholders: \`{{question}}\`, \`{{user_answer}}\`, \`{{verdict}}\`, 
 
 ---
 
-Jsem žák 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Dostal jsem
+Chodím do 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Mám
 úlohu na zlomky a desetinná čísla: sčítání, odčítání, násobení a dělení zlomků, smíšená čísla,
 krácení, převod mezi zlomkem a desetinným číslem, pořadí početních operací, porovnání zlomků
 nebo část z celku ve slovní úloze. Nemám kalkulačku, na zkoušce ji mít nebudu.
@@ -35,9 +35,9 @@ celočíselným výsledkem se přijímá jakýkoli zápis téže hodnoty.
 Prosím:
 1. Vysvětli česky a jednoduše, jak takovou úlohu obecně řešit, bez kalkulačky.
 2. Zeptej se mě, co je v úloze dáno, co hledám a v jakém tvaru má být výsledek, a veď mě po
-   krocích. Konečný výsledek mi neprozrazuj; pomoz mi k němu dojít sám.
-3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde jsem pravděpodobně udělal chybu
-   (například jsem nezkrátil zlomek, sčítal jmenovatele, zapomněl převrátit dělitele, počítal
-   v jiném pořadí, než určují závorky, nebo napsal výsledek v jiném tvaru, než zadání žádá).
+   krocích. Konečný výsledek mi neprozrazuj; pomoz mi dojít k němu vlastními silami.
+3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde pravděpodobně vznikla chyba
+   (například nezkrácený zlomek, sčítání jmenovatelů, nepřevrácený dělitel, počítání
+   v jiném pořadí, než určují závorky, nebo výsledek v jiném tvaru, než zadání žádá).
 4. Pokud si myslíš, že zadání je nejednoznačné nebo chybné, řekni to otevřeně.
 `;export{e as default};

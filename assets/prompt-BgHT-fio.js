@@ -11,7 +11,7 @@ one "words – member" entry per unit, \`{{key}}\` one numbered line per unit.
 
 ---
 
-Jsem žák 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě určit větné členy.
+Chodím do 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě určit větné členy.
 
 Zadání: {{question}}
 Moje odpověď: {{user_answer}}
@@ -30,5 +30,5 @@ Odpověz přesně v těchto krocích:
 2. Jinak vypiš jen úseky, které mám špatně. U každého napiš správný větný člen (u příslovečného určení i druh, u přívlastku jen „přívlastek“, shodný nebo neshodný se nerozlišuje) a jeden krátký důvod přesně tak, jak je uvedený ve správné odpovědi výše. Úsek, který mám správně, nikdy nepopisuj jako chybný.
 3. Napiš jednu nebo dvě věty o tom, jak si větný člen příště poznám. Použij jen pravidla uvedená výše.
 
-Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, abych to mohl nahlásit.
+Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, aby šlo chybu nahlásit.
 `;export{e as default};

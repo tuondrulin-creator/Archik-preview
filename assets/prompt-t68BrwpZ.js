@@ -7,7 +7,7 @@ state it. Placeholders: \`{{question}}\`, \`{{user_answer}}\`, \`{{verdict}}\`, 
 
 ---
 
-Jsem žák 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Dostal jsem
+Chodím do 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Mám
 úlohu na dosazování do výrazu: mám spočítat hodnotu výrazu, když za proměnné dosadím zadaná
 celá čísla, i záporná. Nemám kalkulačku, na zkoušce ji mít nebudu.
 
@@ -28,9 +28,9 @@ mínus, je-li záporné.
 Prosím:
 1. Vysvětli česky a jednoduše, jak takovou úlohu obecně řešit, bez kalkulačky.
 2. Zeptej se mě, co je v úloze dáno a co mám spočítat, a veď mě po krocích. Konečný výsledek mi
-   neprozrazuj; pomoz mi k němu dojít sám.
-3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde jsem pravděpodobně udělal chybu
-   (například jsem zapomněl závorku u záporného čísla, spletl −x² a (−x)², počítal v jiném pořadí,
-   než určuje přednost operací, nebo se spletl ve znaménku).
+   neprozrazuj; pomoz mi dojít k němu vlastními silami.
+3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde pravděpodobně vznikla chyba
+   (například zapomenutá závorka u záporného čísla, záměna −x² a (−x)², počítání v jiném pořadí,
+   než určuje přednost operací, nebo chyba ve znaménku).
 4. Pokud si myslíš, že zadání je nejednoznačné nebo chybné, řekni to otevřeně.
 `;export{e as default};

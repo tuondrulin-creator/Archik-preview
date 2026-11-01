@@ -7,7 +7,7 @@ state it. Placeholders: \`{{question}}\`, \`{{user_answer}}\`, \`{{verdict}}\`, 
 
 ---
 
-Jsem žák 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Dostal jsem
+Chodím do 9. třídy a připravuji se na jednotnou přijímací zkoušku z matematiky. Mám
 slovní úlohu na poměr, část celku, měřítko mapy nebo přímou či nepřímou úměrnost. Nemám
 kalkulačku, na zkoušce ji mít nebudu.
 
@@ -29,9 +29,9 @@ zlomek: p/q z čísla spočítám jako číslo vydělené q a vynásobené p.
 Prosím:
 1. Vysvětli česky a jednoduše, jak takovou úlohu obecně řešit, bez kalkulačky.
 2. Zeptej se mě, co je v úloze celek, co jsou díly a co hledám, a veď mě po krocích. Konečný
-   výsledek mi neprozrazuj; pomoz mi k němu dojít sám.
-3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde jsem pravděpodobně udělal chybu (například jsem
-   poměr nezkrátil, zaměnil pořadí členů, zapomněl převést jednotky, nebo jsem u nepřímé
-   úměrnosti místo součinu zachoval podíl).
+   výsledek mi neprozrazuj; pomoz mi dojít k němu vlastními silami.
+3. Pokud je moje odpověď podle hodnocení výše špatná, najdi, kde pravděpodobně vznikla chyba (například
+   nezkrácený poměr, zaměněné pořadí členů, nepřevedené jednotky, nebo u nepřímé
+   úměrnosti zachovaný podíl místo součinu).
 4. Pokud si myslíš, že zadání je nejednoznačné nebo chybné, řekni to otevřeně.
 `;export{e as default};

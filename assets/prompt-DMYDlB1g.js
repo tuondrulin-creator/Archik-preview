@@ -10,7 +10,7 @@ gap and the sentence as the learner filled it in, \`{{key}}\` one line per gap.
 
 ---
 
-Jsem žák 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě doplnit i, nebo y.
+Chodím do 9. třídy a připravuji se na přijímací zkoušku z češtiny. V úloze mám ve větě doplnit i, nebo y.
 
 Zadání: {{question}}
 Moje odpověď: {{user_answer}}
@@ -29,5 +29,5 @@ Odpověz přesně v těchto krocích:
 2. Jinak vypiš jen mezery, které mám špatně. U každé napiš celé správné slovo a jeden krátký důvod přesně tak, jak je uvedený ve správné odpovědi výše. Mezeru, kterou mám správně, nikdy nepopisuj jako chybnou.
 3. Napiš jednu nebo dvě věty o tom, jak si u takového slova příště vzpomenu na správné písmeno. Použij jen slova a pravidla uvedená výše.
 
-Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, abych to mohl nahlásit.
+Pokud si myslíš, že správná odpověď je chybná, napiš to na konci jasně a vysvětli proč, aby šlo chybu nahlásit.
 `;export{e as default};

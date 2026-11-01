@@ -8,7 +8,7 @@ Tuned with the harness in \`scripts/prompt-eval/\`; results in \`docs/PROMPT_EVA
 
 ---
 
-Jsem žák 9. třídy a připravuji se na přijímací zkoušku z matematiky. Nemám kalkulačku.
+Chodím do 9. třídy a připravuji se na přijímací zkoušku z matematiky. Nemám kalkulačku.
 
 Zadání: {{question}}
 Moje odpověď: {{user_answer}}
@@ -23,8 +23,8 @@ Správný výsledek je ověřený. Neměň ho a nepřepočítávej ho jinak. Nep
 
 Odpověz přesně v těchto krocích:
 1. Porovnej moji odpověď se správným výsledkem. Pokud je to stejná hodnota, i když je zapsaná jinak (třeba s jednotkou, desetinným číslem nebo zlomkem), napiš jen, že je odpověď v pořádku, a skonči.
-2. Jinak najdi, jak jsem se k svému číslu mohl dostat. Zkus jeden nebo dva jednoduché výpočty s čísly ze zadání (například jen změna místo nové hodnoty, jiný základ, sečtená procenta, odčítání místo dělení, zvýšení místo snížení, chybějící násobení stem) a ověř, že skutečně dají moje číslo. Napiš ten výpočet s čísly a řekni, v čem je špatný. Pokud žádný takový výpočet moje číslo nedá, napiš „Z tvého čísla nepoznám, kde je chyba“ (a případně že to může být chyba v počítání) a nic si nevymýšlej. Nepiš žádné úvahy ani neúspěšné pokusy, uveď jen výpočet, který sedí. Každé tvrzení musí být pravdivé; co nevíš jistě, nepiš.
+2. Jinak najdi, jak se k mému číslu dalo dojít. Zkus jeden nebo dva jednoduché výpočty s čísly ze zadání (například jen změna místo nové hodnoty, jiný základ, sečtená procenta, odčítání místo dělení, zvýšení místo snížení, chybějící násobení stem) a ověř, že skutečně dají moje číslo. Napiš ten výpočet s čísly a řekni, v čem je špatný. Pokud žádný takový výpočet moje číslo nedá, napiš „Z tvého čísla nepoznám, kde je chyba“ (a případně že to může být chyba v počítání) a nic si nevymýšlej. Nepiš žádné úvahy ani neúspěšné pokusy, uveď jen výpočet, který sedí. Každé tvrzení musí být pravdivé; co nevíš jistě, nepiš.
 3. Ukaž správný postup krok za krokem s čísly z této úlohy, tak aby vyšel správný výsledek.
 
-Pokud si myslíš, že správný výsledek nebo zadání je chybné, napiš to na konci jasně a vysvětli proč, abych to mohl nahlásit.
+Pokud si myslíš, že správný výsledek nebo zadání je chybné, napiš to na konci jasně a vysvětli proč, aby šlo chybu nahlásit.
 `;export{e as default};
