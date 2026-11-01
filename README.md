@@ -17,7 +17,7 @@ Refresh stránky(též obnovení stránky přes F5) stránku záměrně neaktual
 ## Stav
 Testovací verze, cokoliv se zde může změnit, uložený pokrok se může po větší změně ztratit.
 Pouze pro testování aplikace a jako ukázka.
-### Co teď obsahuje?
+### Co teď obsahuje? (Zastaralé, aktualizujeme)
  - Matematika: Procenta, poměr, zlomky, počítání z paměti(upravitelné), dosazování čísel a desetinná místa
  - Čeština: 33 úloh na základní skladební dvojici; 40 úloh na vyjmenovaná slova, vše s pravidly
  - Přehled pokroku a kalendář
