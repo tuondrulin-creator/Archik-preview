@@ -10,17 +10,23 @@ Odkaz na web: https://tuondrulin-creator.github.io/Archik-preview/
 
 Aplikace se dá i nainstalovat a používat offline.
 ### Aktualizace
-Aktualizace se automaticky stahují na pozadí, ale pro aktualizování aplikace je potřeba
-zavřít všechny karty a okna, kde je aplikace otevřená a následně aplikaci otevřít.
-
-Refresh stránky(též obnovení stránky přes F5) stránku záměrně neaktualizuje.
+Aktualizace se automaticky stahují na pozadí.
+Současnou verzi a nejnovější verzi najdete na stránce aktualizace v sekci další.
+Na stejné stránce můžete i aktualizovat aplikaci nebo zkontrolovat jestli máte nejnovější verzi.
 ## Stav
 Testovací verze, cokoliv se zde může změnit, uložený pokrok se může po větší změně ztratit.
-Pouze pro testování aplikace a jako ukázka.
-### Co teď obsahuje? (Zastaralé, aktualizujeme)
- - Matematika: Procenta, poměr, zlomky, počítání z paměti(upravitelné), dosazování čísel a desetinná místa
- - Čeština: 33 úloh na základní skladební dvojici; 40 úloh na vyjmenovaná slova, vše s pravidly
- - Přehled pokroku a kalendář
+Slouží k testování a jako ukázka.
+### Co teď obsahuje? 
+ - Matematika: procenta, poměr, zlomky a desetinná čísla, dosazování, počítání zpaměti (nastavitelné), výrazy s mnohočleny, rovnice s postupem a zkouškou, převody jednotek. Úlohy vytváří program, takže jich je téměř neomezeně.
+ - Čeština: 33 úloh na základní skladební dvojici, 39 na vyjmenovaná slova a 20 vět na větné členy, celkem 92 schválených úloh.
+ - 45 pravidel, z toho 26 k matematice a 19 k češtině, s příklady a zdroji.
+ - **Další funkce:**
+ - Průvodce aplikací při prvním spuštění;
+ - Dnešní sada, Vlastní výběr a Opakování chyb;
+ - Batůžek se vzorci ze zadání testu a zápisníčkem;
+ - Přehled pokroku a kalendář s termíny zkoušek;
+ - Tisk pro učitele (list A4 bez klíče, znovu vytisknutelný podle kódu);
+ - Tiché zvuky, lehký režim a záloha pokroku do souboru;
  - Další oblasti přijdou.
 ## Jak hlídáme správnost?
 **Upřímná poznámka: vzniká s pomocí AI, ale nic se k žákům nedostane bez lidské kontroly.**
@@ -37,12 +43,17 @@ Zdrojový kód zatím není veřejný, zveřejnění se plánuje. Kód bude pod 
 obsah (úlohy a pravidla) pod CC BY-NC-SA 4.0.
 ## Hlášení chyb
 Přes GitHub issues v tomhle repu, vyžaduje GitHub účet a jsou veřejné, takže ostatní mohou potvrdit chybu a diskutovat o ní.
-Také do issue přidejte i číslo úlohy, kroky k reprodukci a případně navrhované řešení.
+
+U každé úlohy je odkaz "Nahlásit chybu v této úloze", který otevře issue s předvyplněným číslem úlohy. Číslo se nemusí opisovat. Stačí dopsat, co je špatně.
 
 **Nápady jsou také vítány na GitHub issues**
 
 Odkaz na preview repositář odkud pochází toto README: https://github.com/tuondrulin-creator/Archik-preview/ 
 ## Verze
-v 0.1 začátek projektu-30.10.2026
+v0.1 začátek projektu-30.10.2026
 
-v 0.1.1 30.10.2026-teď
+v0.1.1 30.10.2026-21.11.2026
+
+v0.2 21.11.2026-teď
+
+Projekt vznikl 2. 10. 2026.
