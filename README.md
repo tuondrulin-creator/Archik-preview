@@ -11,7 +11,7 @@ Odkaz na web: https://tuondrulin-creator.github.io/Archik-preview/
 Aplikace se dá i nainstalovat a používat offline.
 ### Aktualizace
 Aktualizace se automaticky stahují na pozadí.
-Současnou verzi a nejnovější verzi najdete na stránce aktualizace v sekci další.
+Současnou verzi a nejnovější verzi najdete na stránce *Aktualizace* v sekci *Další*.
 Na stejné stránce můžete i aktualizovat aplikaci nebo zkontrolovat jestli máte nejnovější verzi.
 ## Stav
 Testovací verze, cokoliv se zde může změnit, uložený pokrok se může po větší změně ztratit.
@@ -21,13 +21,13 @@ Slouží k testování a jako ukázka.
  - Čeština: 33 úloh na základní skladební dvojici, 39 na vyjmenovaná slova a 20 vět na větné členy, celkem 92 schválených úloh.
  - 45 pravidel, z toho 26 k matematice a 19 k češtině, s příklady a zdroji.
  - **Další funkce:**
- - Průvodce aplikací při prvním spuštění;
- - Dnešní sada, Vlastní výběr a Opakování chyb;
- - Batůžek se vzorci ze zadání testu a zápisníčkem;
- - Přehled pokroku a kalendář s termíny zkoušek;
- - Tisk pro učitele (list A4 bez klíče, znovu vytisknutelný podle kódu);
- - Tiché zvuky, lehký režim a záloha pokroku do souboru;
- - Další oblasti přijdou.
+   - Průvodce aplikací při prvním spuštění;
+   - Dnešní sada, Vlastní výběr a Opakování chyb;
+   - Batůžek se vzorci ze zadání testu a zápisníčkem;
+   - Přehled pokroku a kalendář s termíny zkoušek;
+   - Tisk pro učitele (list A4 bez klíče, znovu vytisknutelný podle kódu);
+   - Tiché zvuky, lehký režim a záloha pokroku do souboru;
+   - Další oblasti přijdou.
 ## Jak hlídáme správnost?
 **Upřímná poznámka: vzniká s pomocí AI, ale nic se k žákům nedostane bez lidské kontroly.**
 
