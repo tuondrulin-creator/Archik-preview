@@ -18,8 +18,8 @@ Testovací verze, cokoliv se zde může změnit, uložený pokrok se může po v
 Slouží k testování a jako ukázka.
 ### Co teď obsahuje? 
  - Matematika: procenta, poměr, zlomky a desetinná čísla, dosazování, počítání zpaměti (nastavitelné), výrazy s mnohočleny, rovnice s postupem a zkouškou, převody jednotek. Úlohy vytváří program, takže jich je téměř neomezeně.
- - Čeština: 33 úloh na základní skladební dvojici, 39 na vyjmenovaná slova a 20 vět na větné členy, celkem 92 schválených úloh.
- - 45 pravidel, z toho 26 k matematice a 19 k češtině, s příklady a zdroji.
+ - Čeština: 33 úloh na základní skladební dvojici, 78 na vyjmenovaná slova (aspoň šest ke každému písmenu, k v, m, l a b deset), 20 vět na větné členy a 20 na slovní druhy, celkem 151 schválených úloh.
+ - 49 pravidel, z toho 26 k matematice a 23 k češtině, s příklady a zdroji.
  - **Další funkce:**
    - Průvodce aplikací při prvním spuštění;
    - Dnešní sada, Vlastní výběr a Opakování chyb;
@@ -33,6 +33,8 @@ Slouží k testování a jako ukázka.
 
 Výsledky matematických úloh počítá program a kontroluje je nezávislý druhý program.
 Každá česká úloha má zdroje (zejména ÚJČ AV ČR) a je ručně schválena člověkem.
+
+Obsah k vyjmenovaným slovům používá jen slova ze školního seznamu a slova k nim příbuzná, nic z rozšířených seznamů.
 ## Soukromí
 Nikam se nic neodesílá, jediné co používáme je ukládání pokroku v prohlížeči.
 
@@ -40,7 +42,7 @@ Nikam se nic neodesílá, jediné co používáme je ukládání pokroku v prohl
 ## Právní věci
 #### Nesouvisíme s CERMATem a není to oficiální CERMAT materiál. Oficiální testy na https://prijimacky.cermat.cz.
 Zdrojový kód zatím není veřejný, zveřejnění se plánuje. Kód bude pod licencí AGPL-3.0,
-obsah (úlohy a pravidla) pod CC BY-NC-SA 4.0.
+obsah (úlohy a pravidla) je pod CC BY-NC-SA 4.0.
 ## Hlášení chyb
 Přes GitHub issues v tomhle repu, vyžaduje GitHub účet a jsou veřejné, takže ostatní mohou potvrdit chybu a diskutovat o ní.
 
@@ -54,6 +56,8 @@ v0.1 začátek projektu-30.10.2026
 
 v0.1.1 30.10.2026-21.11.2026
 
-v0.2 21.11.2026-teď
+v0.2 21.11.2026-22.11.2026 (lol)
+
+v0.2.1 22.11.2026-teď
 
 Projekt vznikl 2. 10. 2026.
