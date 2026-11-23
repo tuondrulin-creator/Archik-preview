@@ -31,6 +31,8 @@ Slouží k testování a jako ukázka.
 ## Jak hlídáme správnost?
 **Upřímná poznámka: vzniká s pomocí AI, ale nic se k žákům nedostane bez lidské kontroly.**
 
+*Pokud někoho straší Claude ve contributors, tak Claude napsal celých 6 řádků v jednom commitu, proto tam je*
+
 Výsledky matematických úloh počítá program a kontroluje je nezávislý druhý program.
 Každá česká úloha má zdroje (zejména ÚJČ AV ČR) a je ručně schválena člověkem.
 
